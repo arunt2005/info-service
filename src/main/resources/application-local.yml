@@ -2,6 +2,11 @@ spring:
     application:
         name: info-service
 
+logging:
+    level:
+        org.springframework.boot.context.config: DEBUG
+
+
 server:
     port: 1001
 

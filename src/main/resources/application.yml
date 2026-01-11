@@ -2,5 +2,5 @@ spring:
     application:
         name: info-service
     profiles:
-        active: prod
+        active: local
 
